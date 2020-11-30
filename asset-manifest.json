@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/matinales/static/css/main.88819ab8.chunk.css",
+    "main.js": "/matinales/static/js/main.2aec5a55.chunk.js",
+    "main.js.map": "/matinales/static/js/main.2aec5a55.chunk.js.map",
+    "runtime-main.js": "/matinales/static/js/runtime-main.adad7c04.js",
+    "runtime-main.js.map": "/matinales/static/js/runtime-main.adad7c04.js.map",
+    "static/js/2.9ebf0890.chunk.js": "/matinales/static/js/2.9ebf0890.chunk.js",
+    "static/js/2.9ebf0890.chunk.js.map": "/matinales/static/js/2.9ebf0890.chunk.js.map",
+    "static/js/3.3b621314.chunk.js": "/matinales/static/js/3.3b621314.chunk.js",
+    "static/js/3.3b621314.chunk.js.map": "/matinales/static/js/3.3b621314.chunk.js.map",
+    "index.html": "/matinales/index.html",
+    "static/css/main.88819ab8.chunk.css.map": "/matinales/static/css/main.88819ab8.chunk.css.map",
+    "static/js/2.9ebf0890.chunk.js.LICENSE.txt": "/matinales/static/js/2.9ebf0890.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adad7c04.js",
+    "static/js/2.9ebf0890.chunk.js",
+    "static/css/main.88819ab8.chunk.css",
+    "static/js/main.2aec5a55.chunk.js"
+  ]
+}
